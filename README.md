@@ -3,6 +3,8 @@ This is an age verification tool for Dropbox Sign. It tries to gauge the age of 
 
 # Background
 
+# Technical Background
+
 # Requirements
 
 # Instructions
